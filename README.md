@@ -1,4 +1,3 @@
-# 💫 About Me
 
 <h3 align="center">👋 Hey there, I'm <strong>Aathma P</strong></h3>
 <p align="center">
