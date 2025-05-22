@@ -1,9 +1,6 @@
-# 👋 Hey there, I'm **Aathma P**.
+# 💫 About Me:
+# 👋 Hey there, I'm Aathma P.<br><br>🎓 3rd Year Student @ Cochin University of Science and Technology <br>💻 Frontend Developer | Flutter Enthusiast | AI Explorer | Tech-for-Good Advocate <br><br>---
 
-🎓 **3rd Year Student @ Cochin University of Science and Technology**  
-💻 **Frontend Developer | Flutter Enthusiast | AI Explorer | Tech-for-Good Advocate**  
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aathma__sreenath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Aathma Sreenath) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aathma24sreenath) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Aathma-Sreenath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aathma24sreenath@gmail.com) 
@@ -15,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Aathma-P&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aathma-P&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aathma-P&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aathma-P&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aathma-P&icon=9&color=0)](https://visitcount.itsvg.in)
