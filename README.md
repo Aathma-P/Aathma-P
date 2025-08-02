@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hey there, I'm <strong>Aathma P</strong></h3>
 <p align="center">
-  🎓 <strong>3rd Year Student @ Cochin University of Science and Technology</strong><br>
+  🎓 <strong>Final Year Student @ Cochin University of Science and Technology</strong><br>
   💻 <strong>Frontend Developer | Flutter Enthusiast | AI Explorer | Tech-for-Good Advocate</strong><br><br>
   🌱 Always learning and experimenting with new tools and frameworks<br>
   🌍 Driven to use tech for solving real-world problems and making a difference
